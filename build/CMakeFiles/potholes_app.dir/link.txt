@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/potholes_app.dir/main.cpp.o -o potholes_app  -lwt -lwthttp -lboost_system -lboost_thread -lboost_filesystem -lpthread 

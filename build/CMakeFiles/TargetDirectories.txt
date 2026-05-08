@@ -1,0 +1,3 @@
+/workspaces/wt-pothole-projetcs/build/CMakeFiles/potholes_app.dir
+/workspaces/wt-pothole-projetcs/build/CMakeFiles/edit_cache.dir
+/workspaces/wt-pothole-projetcs/build/CMakeFiles/rebuild_cache.dir
